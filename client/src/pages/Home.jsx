@@ -58,6 +58,7 @@ export const Home = () => {
             />
              <p>50% Off</p>
           </div>
+         
         </div>
       </div>
     </div>
