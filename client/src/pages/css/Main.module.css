@@ -1,14 +1,26 @@
 .homefirst
 {
-    border: 1px solid black;
+    border: 6px solid whitesmoke;
     height: 300px;
     width: 95%;
     margin: auto;
     margin-top: 20px;
 }
-.homecategaory
+.homecategaory{
+    margin-top: 10px;
+}
+.homecategaory >div
 {
     display: grid;
     grid-template-columns: repeat(4,1fr);
-    border: 1px solid black;
+    /* border: 1px solid black; */
+    gap: 20px;
+    width: 95%;
+    margin: auto;
+}
+.homecategaory >div>div{
+    border: 3px solid wheat;
+    border-radius: 2px;
+    background-color: #781438;
+
 }

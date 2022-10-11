@@ -1,6 +1,10 @@
 .App {
   text-align: center;
 }
+body{
+  background-image: url(https://t4.ftcdn.net/jpg/04/95/28/65/360_F_495286577_rpsT2Shmr6g81hOhGXALhxWOfx1vOQBa.jpg);
+color: white;
+}
 
 .App-logo {
   height: 40vmin;
