@@ -3,13 +3,13 @@
     justify-content: space-around;
     border-bottom: 1px solid black;
     height: 35px;
-    background-color: greenyellow;
+    background-color: #781438;
     padding-top: 10px;
 }
 .link{
 
     text-decoration: none;
     font-weight: 400px;
-    color: black;
+    color: wheat;
     
 }

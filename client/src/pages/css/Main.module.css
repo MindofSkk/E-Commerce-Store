@@ -1,0 +1,14 @@
+.homefirst
+{
+    border: 1px solid black;
+    height: 300px;
+    width: 95%;
+    margin: auto;
+    margin-top: 20px;
+}
+.homecategaory
+{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    border: 1px solid black;
+}
