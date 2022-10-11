@@ -8,6 +8,6 @@ export const MainRoutes = () => {
 
   <Routes>
     <Route path="/" element={<Home />} />
-    <Route path="/AddProduct" element={<AddProduct />} />
+    <Route path="/addproduct" element={<AddProduct />} />
   </Routes>
 )};

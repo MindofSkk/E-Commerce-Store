@@ -1,0 +1,15 @@
+.abc{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid black;
+    height: 35px;
+    background-color: greenyellow;
+    padding-top: 10px;
+}
+.link{
+
+    text-decoration: none;
+    font-weight: 400px;
+    color: black;
+    
+}
