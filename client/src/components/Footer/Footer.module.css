@@ -1,0 +1,18 @@
+.footer{
+  margin-top: 20px;
+    background-color: 
+    #122337;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid greenyellow ;
+}
+.footer>div{
+border: 1px solid green;
+width: 30%;
+}
+.c>li {
+    text-align: right;
+    text-decoration: none;
+    list-style-type:none;
+}
